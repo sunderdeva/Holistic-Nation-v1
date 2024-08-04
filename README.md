@@ -1,5 +1,5 @@
 
-# Aplicación de Dispensa holistica para Organizaciones de La Salud
+# Aplicación de medicina para Organizaciones de La Salud
 
 ## Descripción
 
