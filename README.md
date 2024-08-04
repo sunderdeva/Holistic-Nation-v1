@@ -1,5 +1,5 @@
 
-# Aplicación de Cannabis para Clubes
+# Aplicación de Dispensa holistica para Organizaciones de La Salud
 
 ## Descripción
 
