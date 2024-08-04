@@ -177,4 +177,8 @@ Nuestra aplicación ofrece una experiencia completa y amigable para los usuarios
 
 ---
 
-Con esta estructura, el README proporciona una visión clara y accesible de todas las funcionalidades y beneficios de la aplicación, destacando el enfoque en la comunidad y la educación, y ofreciendo a los desarrolladores una idea de las herramientas y tecnologías utilizadas, incluyendo ejemplos de código y la integración con Scroll.
+Con esta estructura, el README proporciona una visión clara y accesible de todas las funcionalidades y beneficios de la aplicación, destacando el enfoque en la comunidad y la educación, y ofreciendo a  una idea de las herramientas y tecnologías utilizadas, incluyendo ejemplos de código y la integración con Scroll. 
+
+saludos y muchisimas gracias
+
+aplico a bounty beginner
